@@ -8,9 +8,9 @@ I'm a mathematician, backend developer, data scientist and researcher passionate
 - Data visualization
 
 ## 📝 (News) Publications
-- "Motivación Pythoniana: Una estrategia efectiva para estimular el aprendizaje en estudiantes de la Universidad Rosario Castellanos", Latam: revista latinoamericana de Ciencias Sociales y Humanidades, 2024 – [10.56712/latam.v5i4.2516](https://latam.redilat.org/index.php/lt/article/view/2516)
-- "On computational Poisson geometry II: Numerical methods", Journal of Computational Dynamics, 2021 – [10.3934/jcd.2021012](https://www.aimsciences.org/article/doi/10.3934/jcd.2021012)
-- "On computational Poisson geometry I: Symbolic foundations", Journal of Geometric Mechanics, 2021 – [10.3934/jgm.2021018](https://www.aimsciences.org/article/doi/10.3934/jgm.2021018)
+- "Motivación Pythoniana: Una estrategia efectiva para estimular el aprendizaje en estudiantes de la Universidad Rosario Castellanos", Latam: revista latinoamericana de Ciencias Sociales y Humanidades, 2024 – [10.56712/latam.v5i4.2516](https://latam.redilat.org/index.php/lt/article/view/2516), With Gabriela Bailón-Solano.
+- "On computational Poisson geometry II: Numerical methods", Journal of Computational Dynamics, 2021 – [10.3934/jcd.2021012](https://www.aimsciences.org/article/doi/10.3934/jcd.2021012), With Pablo Suárez-Serrato & José Ruíz.
+- "On computational Poisson geometry I: Symbolic foundations", Journal of Geometric Mechanics, 2021 – [10.3934/jgm.2021018](https://www.aimsciences.org/article/doi/10.3934/jgm.2021018), With Pablo Suárez-Serrato & José Ruíz.
 
 ## 🗒️ Teaching notes in spanish (All in process)
 - [Notas de Redes Neuronales](https://miguelevangelista.gitbook.io/notas-de-redes-neuronales)
