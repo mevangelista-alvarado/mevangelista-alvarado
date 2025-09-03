@@ -29,7 +29,7 @@ I'm a mathematician, backend developer, data scientist and researcher passionate
    
 - [Lógica de programación](https://miguelevangelista.gitbook.io/logica-de-programacion)
 - [Visualización de datos](https://miguelevangelista.gitbook.io/visualizacion-de-datos)
-- [Herramientas avanzadas para la gestión de grandes volúmenes de datos](https://miguelevangelista.gitbook.io/herramientasavanzadas)
+- [Herramientas avanzadas para la gestión de grandes volúmenes de datos (Hadoop & APIs)](https://miguelevangelista.gitbook.io/herramientasavanzadas)
  
 
 ## 📫 Contact
