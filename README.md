@@ -5,12 +5,19 @@ I'm a mathematician, backend developer, data scientist and researcher passionate
 ## 🔬 Research Interests
 - AI applications in Hamiltonian systems
 - Teaching Python programming in higher education
-- Data visualization
+- Data analysis and visualization
 
 ## 📝 (News) Publications
-- "Motivación Pythoniana: Una estrategia efectiva para estimular el aprendizaje en estudiantes de la Universidad Rosario Castellanos", Latam: revista latinoamericana de Ciencias Sociales y Humanidades, 2024 – [10.56712/latam.v5i4.2516](https://latam.redilat.org/index.php/lt/article/view/2516), With Gabriela Bailón-Solano.
-- "On computational Poisson geometry II: Numerical methods", Journal of Computational Dynamics, 2021 – [10.3934/jcd.2021012](https://www.aimsciences.org/article/doi/10.3934/jcd.2021012), With Pablo Suárez-Serrato & José Ruíz.
-- "On computational Poisson geometry I: Symbolic foundations", Journal of Geometric Mechanics, 2021 – [10.3934/jgm.2021018](https://www.aimsciences.org/article/doi/10.3934/jgm.2021018), With Pablo Suárez-Serrato & José Ruíz.
+- "SymFlux: deep symbolic regression of Hamiltonian vector fields.", Prepint, 2025 - [arXiv](https://arxiv.org/abs/2507.06342v1).  
+  With P Suárez-Serrato.
+- "Space filling positionality and the Spiroformer.", 2025 - [arXiv](https://arxiv.org/abs/2507.08456).
+  With P Suárez-Serrato & M. Maurin.
+- "Motivación Pythoniana: Una estrategia efectiva para estimular el aprendizaje en estudiantes de la Universidad Rosario Castellanos", Latam: revista latinoamericana de Ciencias Sociales y Humanidades, 2024 – [10.56712/latam.v5i4.2516](https://latam.redilat.org/index.php/lt/article/view/2516).
+  With G Bailón-Solano.
+- "On computational Poisson geometry II: Numerical methods", Journal of Computational Dynamics, 2021 – [10.3934/jcd.2021012](https://www.aimsciences.org/article/doi/10.3934/jcd.2021012).
+  With P Suárez-Serrato & J Ruíz.
+- "On computational Poisson geometry I: Symbolic foundations", Journal of Geometric Mechanics, 2021 – [10.3934/jgm.2021018](https://www.aimsciences.org/article/doi/10.3934/jgm.2021018).
+  With P Suárez-Serrato & J Ruíz.
 
 ## 🗒️ Teaching notes in spanish (All in process)
 - [Notas de Redes Neuronales](https://miguelevangelista.gitbook.io/notas-de-redes-neuronales)
